@@ -4,15 +4,15 @@ In this post, I'll discuss the group_by method of the Enumerable Ruby class.
 
 The Ruby group_by method belongs to the Enumerable class. This method allows one to create collections of elements based on criteria. The method takes an input array and a block of code an it outputs a hash. The syntax are as follows:
 
-```ruby
+{% highlight ruby linenos %}
 # array.group_by{ |obj| block }
 
 # returns a hash
-```
+{% endhighlight %}
 
 Here is a simple example that uses group_by to group a list of students by the first letter of their first names:
 
-```ruby
+{% highlight ruby linenos %}
 students = ["Jennifer Miller", "Jason Miller", "Barack Obama", "Hillary Clinton"]
 
 grouped_hash = students.group_by { |name| name[0]}
@@ -24,7 +24,7 @@ print grouped_hash
 # "B"=>["Barack Obama"], 
 # "H"=>["Hillary Clinton"]
 # }
-```
+{% endhighlight %}
 
 ###A More Complex Example
 

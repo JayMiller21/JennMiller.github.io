@@ -1,4 +1,10 @@
-##Enumerable#group_by
+---
+layout: post
+title:  "Enumerable#group_by"
+date:   2014-07-25 11:53:03
+categories: technical
+---
+
 
 In this post, I'll discuss the group_by method of the Enumerable Ruby class.
 

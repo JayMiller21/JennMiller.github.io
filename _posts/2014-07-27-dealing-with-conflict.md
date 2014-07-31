@@ -1,5 +1,9 @@
-#Dealing with Conflict
-
+---
+layout: post
+title:  "Dealing with Conflict"
+date:   2014-07-27 00:00:00
+categories: cultural
+---
 
 At the heart of preventing and mediating conflict is communitcation. I learned the hard way that this applies in the workplace as much as anywhere else.
 

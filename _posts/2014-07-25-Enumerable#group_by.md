@@ -6,8 +6,6 @@ categories: technical
 ---
 
 
-In this post, I'll discuss the group_by method of the Enumerable Ruby class.
-
 The Ruby group_by method belongs to the Enumerable class. This method allows one to create collections of elements based on criteria. The method takes an input array and a block of code an it outputs a hash. The syntax are as follows:
 
 {% highlight ruby linenos %}

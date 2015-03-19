@@ -39,8 +39,7 @@ The previous example isn't particularly useful. But the group_by method could be
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    // Required: on line below, replace text in quotes with your forum shortname
-    var disqus_shortname = 'FORUM SHORTNAME GOES HERE';
+    var disqus_shortname = 'techsploration';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

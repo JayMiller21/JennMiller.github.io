@@ -31,7 +31,7 @@ print grouped_hash
 # }
 {% endhighlight %}
 
-###A More Complex Example
+### A More Complex Example
 
 The previous example isn't particularly useful. But the group_by method could be extended to accomplish much more complex tasks. Take for example a university that wants to assign unique email addresses to each of it's 10,000 students. The basic template for a student's email address is the first letter of his first name concatenated with the first four letters of his last name. However, some students will have identical addresses if the name creation ends there. Taking for example the 'students' array above, group_by could be used to group together all students with email address beginning jmill. Then, each student in the array corresponding to key 'jmill' in the group_by hash would have a unique number appended to 'jmill'. This would ensure a unique email address for each student.
 

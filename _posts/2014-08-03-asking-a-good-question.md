@@ -3,6 +3,7 @@ layout: post
 title:  "Asking a Good Question"
 date:   2014-08-03 00:00:00
 categories: cultural
+comments: true
 ---
 
 Asking a good question is all about expressing the following as precisely and succinctly as possible:

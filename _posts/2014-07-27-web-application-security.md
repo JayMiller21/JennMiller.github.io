@@ -3,6 +3,7 @@ layout: post
 title:  "Basics of Web Application Security"
 date:   2014-07-27 00:00:00
 categories: technical
+comments: true
 ---
 
 

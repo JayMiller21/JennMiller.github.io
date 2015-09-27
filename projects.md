@@ -4,5 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-### Habits ###
-Track your habits to keep them up!
+### [Small Wins](https://small-wins.herokuapp.com/) ###
+#### Add habits, log days, watch your chains grow ####
